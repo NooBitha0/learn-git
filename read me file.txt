@@ -1,1 +1,8 @@
 hello this is learning git
+
+damn
+
+$ git add .
+$ git commit -m "new project"
+equivalent
+$git commit -am "new project"
